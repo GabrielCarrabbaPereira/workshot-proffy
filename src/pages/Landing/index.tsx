@@ -22,8 +22,8 @@ function Landing() {
                         Estudar
                     </a>
                     <a href="" className="give-classes">
-                        <img src={giveClassesIcon} alt="Estudar"></img>
-                        Estudar
+                        <img src={giveClassesIcon} alt="Dar aulas"></img>
+                        Dar aulas
                     </a>
                 </div>
                 <span className="total-connections">
